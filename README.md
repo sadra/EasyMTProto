@@ -30,7 +30,7 @@ The Mobile Protocol is subdivided into three components ([from the official site
 
 
 
-## Easy-mtPort0 in short..
+## Easy-MTPorto in short..
 
 The **telegram-mt-node** library implements the **Mobile Protocol** and provides the following features:
 
@@ -68,7 +68,7 @@ Modify the `config.json` parameters to what ever thing you want:
 | Params        | Propose                       |
 | :------------ | :---------------------------- |
 | **port**      | The port of MT Portocol       |
-| **secret**    | Secret code for MT Portocol   |
+| **secret**    | Secret code for MT Portocol. It must be 32 characters and contains numbers & just `a,b,c,d,e,f` for symbols)   |
 | **server**    | Your server IP                |
 | **indexPort** | Port for index page of app    |
 
