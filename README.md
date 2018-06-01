@@ -1,7 +1,7 @@
 # EasyMTPorto
 
 [![Version](https://img.shields.io/badge/version-1.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
-[![License](https://img.shields.io/badge/licence-Apache-2.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
+[![License](https://img.shields.io/badge/licence-Apache%202.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![npm version][npm-image]][npm-url]
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/Easy-MTPorto/Lobby)
 
