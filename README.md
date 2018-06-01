@@ -92,6 +92,17 @@ $ pm2 list
 ```
 
 
+## Use
+
+You can share the proxy within a link.
+
+**structure:**
+https://t.me/proxy?server=`SERVER_ADDRESS`&port=`SERVER_PORT`&secret=`SECRET_KEY`&@`YOUR_CHANNEL_ADDRESS`
+
+**example:**
+`https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy`
+
+
 ## License
 
 The project is released under the [Apache License 2.0](./LICENSE)
