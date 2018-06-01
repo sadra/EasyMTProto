@@ -1,0 +1,6 @@
+{
+  "port": 5665,
+  "secret":"2d58e9a0df07ea9080bf3dbd83fb4c7d",
+  "server": "10.10.10.10",
+  "indexPort": 8080
+}
