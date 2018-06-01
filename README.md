@@ -66,7 +66,7 @@ Modify the `config.json` parameters to what ever thing you want:
 
 
 | Params        | Propose                       |
-| :-----------: | :---------------------------- |
+| :------------ | :---------------------------- |
 | **port**      | The port of MT Portocol       |
 | **secret**    | Secret code for MT Portocol   |
 | **server**    | Your server IP                |
