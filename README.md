@@ -1,7 +1,6 @@
 # EasyMTPorto
 
-[![npm version][npm-image]][npm-url] [![Build Status] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url]
-[![Sauce Test Status][sauce-image]][sauce-url]
+[![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]]
 
 Easy Nodejs client for **Telegram Mobile Protocol** [(MTProto)](https://core.telegram.org/mtproto) in pure **javascript** on the Node.js platform
 
