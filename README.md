@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/sadra/EasyMTPorto/master/public/images/emtproto.png)<!-- .element height="50px" width="50px" --> EasyMTPorto
+# <img src="https://raw.githubusercontent.com/sadra/EasyMTPorto/master/public/images/emtproto.png" width="100px" height="auto"> EasyMTPorto
 
 [![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![License](https://img.shields.io/badge/licence-Apache%202.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
