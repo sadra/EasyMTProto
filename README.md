@@ -71,6 +71,7 @@ Modify the `config.json` parameters to what ever thing you want:
 | **secret**    | Secret code for MT Portocol. It must be 32 characters and contains numbers & just `a,b,c,d,e,f` for symbols)   |
 | **server**    | Your server IP                |
 | **indexPort** | Port for index page of app    |
+| **channel**   | Your sponsored channel ID (for public channels    |
 
 ## Run
 
