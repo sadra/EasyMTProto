@@ -9,7 +9,8 @@ router.get('/', function(req, res, next) {
       title: 'Easy MTPorto',
       server: config.server,
       port: config.port,
-      secret: config.secret
+      secret: config.secret,
+      channel: config.channel,
   });
 });
 
