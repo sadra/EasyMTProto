@@ -58,7 +58,7 @@ Modify the `config.json` parameters to what ever thing you want:
 ```json
 {
   "port": 5665,
-  "secret":"atLNxh7yF7Fykpau67VSs4UhyxnzNtQz",
+  "secret":"b0cbcef5a486d9636472ac27f8e11a9d",
   "server": "10.10.10.10",
   "indexPort": 8080
 }
