@@ -1,6 +1,11 @@
 # EasyMTPorto
 
-[![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]]
+[![Version](https://img.shields.io/badge/version-1.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
+[![License](https://img.shields.io/badge/licence-Apache-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
+[![npm version][npm-image]][npm-url]
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/Easy-MTPorto/Lobby)
+
+
 
 Easy Nodejs client for **Telegram Mobile Protocol** [(MTProto)](https://core.telegram.org/mtproto) in pure **javascript** on the Node.js platform
 
