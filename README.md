@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/sadra/EasyMTPorto/tree/master/public/images/emtproto.png)
-#  EasyMTPorto
+# ![](https://raw.githubusercontent.com/sadra/EasyMTPorto/master/public/images/emtproto.png) EasyMTPorto
 
 [![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![License](https://img.shields.io/badge/licence-Apache%202.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
