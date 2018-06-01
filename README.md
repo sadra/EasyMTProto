@@ -1,6 +1,6 @@
 # EasyMTPorto
 
-[![Version](https://img.shields.io/badge/version-1.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
+[![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![License](https://img.shields.io/badge/licence-Apache%202.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![npm version][npm-image]][npm-url]
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/Easy-MTPorto/Lobby)
@@ -45,12 +45,24 @@ The **telegram-mt-node** library implements the **Mobile Protocol** and provides
 
 ## Installation
 
+Get the `easy-mtporto` and install all dependencies:
+
 ```bash
 $ git clone --branch=master https://github.com/sadra/EasyMTPorto
 $ cd EasyMTPorto
 $ npm install
 ```
 
+Modify the `config.json` parameters to what ever thing you want:
+
+```json
+{
+  "port": 5665, //The port of MT Portocol
+  "secret":"2d58e9a0df07ea9080bf3dbd83fb4c7d", //Secret code for MT Portocol
+  "server": "10.10.10.10", //Your server IP
+  "indexPort": 8080 //Port for index page of app
+}
+```
 
 ## Run
 
