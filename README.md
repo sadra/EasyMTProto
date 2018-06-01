@@ -57,12 +57,20 @@ Modify the `config.json` parameters to what ever thing you want:
 
 ```json
 {
-  "port": 5665, //The port of MT Portocol
-  "secret":"2d58e9a0df07ea9080bf3dbd83fb4c7d", //Secret code for MT Portocol
-  "server": "10.10.10.10", //Your server IP
-  "indexPort": 8080 //Port for index page of app
+  "port": 5665,
+  "secret":"atLNxh7yF7Fykpau67VSs4UhyxnzNtQz",
+  "server": "10.10.10.10",
+  "indexPort": 8080
 }
 ```
+
+
+| Params        | Propose                       |
+| :-----------: | :---------------------------- |
+| **port**      | The port of MT Portocol       |
+| **secret**    | Secret code for MT Portocol   |
+| **server**    | Your server IP                |
+| **indexPort** | Port for index page of app    |
 
 ## Run
 
