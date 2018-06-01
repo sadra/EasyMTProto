@@ -36,10 +36,6 @@ The **telegram-mt-node** library implements the **Mobile Protocol** and provides
 
  - Both **plain-text and encrypted message** to communicate data with the server
 
- - **Diffie-Hellman key exchange** supported by the **prime factorization** function implemented in the security layer
-
- - **MTProto TL-Schema** compilation as **javascript classes and functions** via [**telegram-tl-node**](https://github.com/enricostara/telegram-tl-node) dependency
-
 <img src="https://raw.githubusercontent.com/enricostara/telegram.link/master/telegram.link.png"
     width="20" /> [**telegram.link**](http://telegram.link)  main project depends by this library.
 
