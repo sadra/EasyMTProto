@@ -70,7 +70,7 @@ $ pm2 list
 
 ## License
 
-The project is released under the [Apache 2.0 License](./LICENSE)
+The project is released under the [Apache License 2.0](./LICENSE)
 
 [npm-url]: https://www.npmjs.org/package/telegram-mt-node
 [npm-image]: https://badge.fury.io/js/telegram-mt-node.svg
