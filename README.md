@@ -99,11 +99,16 @@ You can share the proxy within a link.
 
 **structure:**
 
-`https://t.me/proxy?server=**SERVER_ADDRESS**&port=**SERVER_PORT**&secret=**SECRET_KEY**&@**YOUR_CHANNEL_ADDRESS**`
+<pre>
+https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>SERVER_PORT</b>&secret=<b>SECRET_KEY</b>&@<b>YOUR_CHANNEL_ADDRESS</b>`
+</pre>
+
 
 **example:**
 
-`https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy`
+<pre>
+https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy`
+</pre>
 
 
 ## License
