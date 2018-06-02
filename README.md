@@ -31,7 +31,7 @@ The Mobile Protocol is subdivided into three components ([from the official site
 
 ## Easy-MTProto in short..
 
-The **Easy-MTProto** use ![JSMTProxy](https://github.com/FreedomPrevails/JSMTProxy) as the kernel.
+The **Easy-MTProto** use [JSMTProxy](https://github.com/FreedomPrevails/JSMTProxy) as the kernel.
 
 ## Installation
 
