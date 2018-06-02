@@ -95,6 +95,8 @@ $ pm2 list
 
 ## Use
 
+Before start anything the client mus be updated: [telegram download](https://telegram.org/)
+
 You can share the proxy within a link.
 
 **structure:**
@@ -102,7 +104,6 @@ You can share the proxy within a link.
 <pre>
 https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>SERVER_PORT</b>&secret=<b>SECRET_KEY</b>&@<b>YOUR_CHANNEL_ADDRESS</b>`
 </pre>
-
 
 **example:**
 
