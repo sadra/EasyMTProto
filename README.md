@@ -102,7 +102,7 @@ You can share the proxy within a link.
 **structure:**
 
 <pre>
-https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>SERVER_PORT</b>&secret=<b>SECRET_KEY</b>&@<b>YOUR_CHANNEL_ADDRESS</b>`
+https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>PORT</b>&secret=<b>SECRET_KEY</b>&@<b>YOUR_CHANNEL_ADDRESS</b>`
 </pre>
 
 **example:**
