@@ -29,19 +29,9 @@ The Mobile Protocol is subdivided into three components ([from the official site
  messages over some other existing network protocol (such as, http, https, tcp, udp).
 
 
-
 ## Easy-MTProto in short..
 
-The **telegram-mt-node** library implements the **Mobile Protocol** and provides the following features:
-
- - Both **TCP** and **HTTP connections** implemented in the transport layer
-
- - A cipher implementation for **AES and RSA encryption** in the security layer
-
- - Both **plain-text and encrypted message** to communicate data with the server
-
-<img src="https://raw.githubusercontent.com/enricostara/telegram.link/master/telegram.link.png"
-    width="20" /> [**telegram.link**](http://telegram.link)  main project depends by this library.
+The **Easy-MTProto** use ![JSMTProxy](https://github.com/FreedomPrevails/JSMTProxy) as the kernel.
 
 ## Installation
 
