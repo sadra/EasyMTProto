@@ -43,7 +43,7 @@ module.exports = app;
 app.listen(configObj.indexPort);
 
 
-//MTPorto
+//MTProto
 const CON_TIMEOUT = 5 * 60000; //5 Mins
 const REPORT_CON_SEC = 10;
 const MIN_IDLE_SERVERS = 4;

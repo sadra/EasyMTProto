@@ -1,9 +1,9 @@
-# <img src="https://raw.githubusercontent.com/sadra/EasyMTPorto/master/public/images/emtproto.png" width="100px" height="auto"> EasyMTPorto
+# <img src="https://raw.githubusercontent.com/sadra/EasyMTProto/master/public/images/emtproto.png" width="100px" height="auto"> EasyMTPorto
 
 [![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![License](https://img.shields.io/badge/licence-Apache%202.0-lightgrey.svg?style=flat)](https://github.com/amlashi-sadra/awesome-medium-editor)
 [![npm version][npm-image]][npm-url]
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/Easy-MTPorto/Lobby)
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg?style=flat)](https://gitter.im/Easy-MTProto/Lobby)
 
 
 
@@ -30,7 +30,7 @@ The Mobile Protocol is subdivided into three components ([from the official site
 
 
 
-## Easy-MTPorto in short..
+## Easy-MTProto in short..
 
 The **telegram-mt-node** library implements the **Mobile Protocol** and provides the following features:
 
@@ -45,11 +45,11 @@ The **telegram-mt-node** library implements the **Mobile Protocol** and provides
 
 ## Installation
 
-Get the `easy-mtporto` and install all dependencies:
+Get the `easy-mtproto` and install all dependencies:
 
 ```bash
-$ git clone --branch=master https://github.com/sadra/EasyMTPorto
-$ cd EasyMTPorto
+$ git clone --branch=master https://github.com/sadra/EasyMTProto
+$ cd EasyMTProto
 $ npm install
 ```
 
@@ -67,8 +67,8 @@ Modify the `config.json` parameters to what ever thing you want:
 
 | Params        | Propose                       |
 | :------------ | :---------------------------- |
-| **port**      | The port of MT Portocol       |
-| **secret**    | Secret code for MT Portocol. It must be 32 characters and contains numbers & just `a,b,c,d,e,f` for symbols)   |
+| **port**      | The port of MT Protocol       |
+| **secret**    | Secret code for MT Protocol. It must be 32 characters and contains numbers & just `a,b,c,d,e,f` for symbols)   |
 | **server**    | Your server IP                |
 | **indexPort** | Port for index page of app    |
 | **channel**   | Your sponsored channel ID (for public channels    |
@@ -80,7 +80,7 @@ Modify the `config.json` parameters to what ever thing you want:
 First of all install `nodemon` on you global path: [**nodemo**](https://nodemon.io/)
 and then run it with nodmeon
 ```bash
-$ nodemon emtporto.js
+$ nodemon emtproto.js
 ```
 
 ### With pm2
@@ -88,7 +88,7 @@ $ nodemon emtporto.js
 First of all install `pm2` tool: [**pm2**](http://pm2.keymetrics.io/)
 and then run it with nodmeon
 ```bash
-$ pm2 start emtporto.js -i max
+$ pm2 start emtproto.js -i max
 $ pm2 list
 ```
 
@@ -108,6 +108,13 @@ https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>SERVER_PORT</b>&secret=<
 
 <pre>
 https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy`
+</pre>
+
+You can get the link from index of your app on your server:
+<pre>
+SERVER_ADDRESS:INDEX_PORT
+//example
+http://10.10.10.10:5665
 </pre>
 
 
