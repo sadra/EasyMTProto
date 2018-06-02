@@ -108,7 +108,7 @@ https://t.me/proxy?server=<b>SERVER_ADDRESS</b>&port=<b>PORT</b>&secret=<b>SECRE
 **example:**
 
 <pre>
-https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy`
+https://t.me/proxy?server=10.10.10.10&port=5665&secret=b0cbcef5a486d9636472ac27f8e11a9d&@EasyMTProxy
 </pre>
 
 You can get the link from index of your app on your server:
