@@ -6,7 +6,7 @@ const config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', {
-      title: 'Easy MTPorto',
+      title: 'Easy MTProto',
       server: config.server,
       port: config.port,
       secret: config.secret,

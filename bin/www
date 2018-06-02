@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('easymtporto:server');
+var debug = require('debug')('emtproto:server');
 var http = require('http');
 
 /**

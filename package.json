@@ -1,13 +1,13 @@
 {
-  "name": "easymtporto",
+  "name": "easymtproto",
   "version": "1.0.0",
   "private": false,
   "description": "Easy Nodejs client for Teleram Portocol.",
-  "main": "mtporto.js",
+  "main": "emtproto.js",
   "author": "Sadra I. Aamlashi <sadra@isapanah.com> (http://isapanah.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sadra/EasyMTPorto"
+    "url": "https://github.com/sadra/EasyMTProto"
   },
   "scripts": {
     "start": "node ./bin/www"
