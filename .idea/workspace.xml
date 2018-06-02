@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4105e089-5fbf-467c-a82f-83fa8aaca1eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="104" column="56" lean-forward="false" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
+              <first_editor relative-caret-position="281">
+                <caret line="110" column="100" lean-forward="false" selection-start-line="110" selection-start-column="100" selection-end-line="110" selection-end-column="100" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -316,12 +315,12 @@
       <updated>1527846687193</updated>
       <workItem from="1527846711614" duration="442000" />
       <workItem from="1527847456015" duration="7448000" />
-      <workItem from="1527898458398" duration="633000" />
+      <workItem from="1527898458398" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8523000" />
+    <option name="totallyTimeSpent" value="8555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -503,8 +502,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="104" column="56" lean-forward="false" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
+          <first_editor relative-caret-position="281">
+            <caret line="110" column="100" lean-forward="false" selection-start-line="110" selection-start-column="100" selection-end-line="110" selection-end-column="100" />
             <folding />
           </first_editor>
           <second_editor>

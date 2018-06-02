@@ -115,7 +115,7 @@ You can get the link from index of your app on your server:
 <pre>
 SERVER_ADDRESS:INDEX_PORT
 //example
-http://10.10.10.10:5665
+http://10.10.10.10:8080
 </pre>
 
 
